@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2024.3.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S C:\Users\20614\Desktop\STM32Project\TDRmeasure -B C:\Users\20614\Desktop\STM32Project\TDRmeasure\cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done (0.0s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/Users/20614/Desktop/STM32Project/TDRmeasure/cmake-build-debug
